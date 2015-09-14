@@ -1,0 +1,20 @@
+  body {
+      text-align: center;
+      background-color: #222;
+      color: #fff;
+      font-size: 35px;
+      font-family: monospace;
+  }
+
+  p{
+    font-size: 25px;
+  }
+ div a{
+   background-color: #4169E1;
+   color: #FFFF33;
+   text-decoration: none;
+   border-radius: 5%;
+   padding: 0 5px 0 5px;
+   font-size: 35px;
+
+}
